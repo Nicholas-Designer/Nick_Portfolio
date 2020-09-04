@@ -8,9 +8,9 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 
 # 2nd Year  Started: 2017 Ended: 2018
-[2D Games Development](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/2D-GamesDevelopment.md)
+2D Games Development
 
-[2D Game Production](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/2D-GameProduction.md)
+2D Game Production
 
 
 
@@ -19,13 +19,12 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 
 # 3rd Year  Started: 2018  Ended: 2019 
-[Digital Games Production](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/Digital-Games-Production.md)
+Digital Games Production
 
-[Games Testing](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/Games-Testing.md)
+Games Testing
 
-[3D modeling](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/3D-modeling.md) 
-
-[3D Environments](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/3D-Environments.md)
+3D modeling
+3D Environments
 
 
 
